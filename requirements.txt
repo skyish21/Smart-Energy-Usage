@@ -1,7 +1,7 @@
 streamlit
-sklearn
+scikit-learn
 pandas
-tensorflow>=2.10.0
+tensorflow
 matplotlib
 seaborn
 numpy
