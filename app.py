@@ -81,7 +81,7 @@ with tab2:
 
 # Footer ---
 
-st.markdown("---", unsafe_allow_html=True)
+st.markdown("---")
 
 st.markdown("""
 <div style='text-align: center; font-size: 14px;'>
@@ -93,15 +93,15 @@ st.markdown("""
 <div style='text-align: center; margin-top: 10px;'>
             
     <a href='mailto:ish21112002@gmail.com' target='_blank'>
-        <img src='https://img.icons8.com/ios-filled/30/000000/new-post.png' style='margin-right:10px' title='Email Me'/>
+        📧 Email
     </a>
             
     <a href='https://github.com/skyish21' target='_blank'>
-        <img src='https://img.icons8.com/ios-glyphs/30/000000/github.png' style='margin-right:10px' title='GitHub'/>
+        🐱 GitHub
     </a>
             
     <a href='https://www.linkedin.com/in/ishika-sharma-79a67a326' target='_blank'>
-        <img src='https://img.icons8.com/ios-filled/30/0077B5/linkedin.png' title='LinkedIn'/>
+        💼 LinkedIn
     </a>
 </div>
 """, unsafe_allow_html=True)
