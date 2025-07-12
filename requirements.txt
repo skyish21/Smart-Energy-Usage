@@ -1,7 +1,7 @@
 streamlit
 sklearn
 pandas
-tensorflow
+tensorflow>=2.10.0
 matplotlib
 seaborn
 numpy
